@@ -20,8 +20,10 @@
 # Пример выполнения
 ## Референс
 <img width="1000" alt="Строение сердца" src="https://github.com/user-attachments/assets/ffa52a28-61a9-4243-9f7e-c06270bec39b">
+
 ## Входные данные
 <img width="1000" alt="Снимок МРТ" src="https://github.com/user-attachments/assets/08d03995-fa8b-43cf-b7ac-6f9c18cca8ab">
+
 ## Выходные данные
  <img width="1000" alt="Снимок МРТ" src="https://github.com/user-attachments/assets/b7c01bc4-67a7-48a2-a9ff-0e0e1e7f3c66">
 Здесь необходимо сделать комментарий, что это лишь примерное классификационное разграничение. Естественно, что разметка должна проходить классификационными масками.
