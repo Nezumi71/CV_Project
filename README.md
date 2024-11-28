@@ -17,3 +17,5 @@
 * Савина - пункты 1,2,3;
 * Ромашин - пункты 2,4,5;
 * Кутырёва - пункты 2,6,7.
+ <img width="1000" alt="Снимок МРТ" src="https://github.com/user-attachments/assets/b7c01bc4-67a7-48a2-a9ff-0e0e1e7f3c66">
+ ![WhatsApp Image 2024-11-28 at 15 23 10](https://github.com/user-attachments/assets/ffa52a28-61a9-4243-9f7e-c06270bec39b)
