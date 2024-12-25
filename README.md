@@ -19,6 +19,6 @@
 # Пример выполнения
 
 ## Входные данные
-<img src="/Good/ImagesTr/img3/image.0064.jpg" alt="Компьютер" width="500" height="300">
+<img src="/Good/ImagesTr/img3/image.0064.jpg">
 ## Выходные данные
 
