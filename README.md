@@ -20,5 +20,6 @@
 
 ## Входные данные
 <img src="/Good/ImagesTr/img3/image.0064.jpg">
+
 ## Выходные данные
 <img src="/Good/LabelsTr/img3/image.0064.jpg">
